@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">subModule_repo_two</string>
+    <string name="setting_test">Setting Test</string>
+</resources>
